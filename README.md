@@ -15,6 +15,13 @@ La aplicación permite:
 
 La interfaz es por consola (menús) y los datos se almacenan en ficheros binarios/serializados en el directorio del proyecto.
 
+Por defecto se crea el Usuario Admin y para iniciar sesion debemos introducir los siguientes datos:
+
+ - Usuario: Admin Admin
+ - Contraseña: admin1234
+
+ Al crear una pelicula los unicos generos validos son ACCION, AVENTURA, COMEDIA, DRAMA, TERROR, FICCION, FANTASIA, ROMANTICA, MUSICAL, DOCUMENTAL.
+
 ---
 
 ## Organización del Trabajo
